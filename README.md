@@ -7,7 +7,7 @@ Arduino Uno encodes QR code (size 25*25 Error Correction Level H with modified m
 (http://www.geeetech.com/wiki/index.php/2.4%22TFT_LCD) using UTFT library (http://www.henningkarlsen.com/electronics/library.php?id=52)
 
 Arduino communicates with Android phone by an app. We modified zxing library (https://code.google.com/p/zxing/) to 
-decode our QR code.
+decode our QR code. You can find our Android project here (https://mega.co.nz/#!wdwGWAYJ!AKUjEAaSn8iitt9UYr0DdH-IEOUDSXa_jsY8iz-mVnA)
 
 The steps of our system as follow:
 
