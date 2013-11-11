@@ -20,3 +20,7 @@ Arduino will check if the result is correct or not. If correct it will turn on a
 
 In the future we will replace Uno by Mega so that we can use the touching screen of LCD and add more functions to our system.
 
+Our group: 
+            Leader: Phan Tuan Phuc (ptphucbk@gmail.com)
+            Member: Nguyen Dai Duong
+                    Ha Duc Thang
