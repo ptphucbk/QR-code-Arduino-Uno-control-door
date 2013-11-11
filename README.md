@@ -16,6 +16,7 @@ The steps of our system as follow:
 - After logging in, you can request Arduino to generate a random QR code or edit the account.
 - If you request Arduino to generate and display QR code, you can scan it and send the result back to Arduino, then
 Arduino will check if the result is correct or not. If correct it will turn on a LED.
+- You also can manage all accounts saved in EEPROM by delete and add funtions 
 
 In the future we will replace Uno by Mega so that we can use the touching screen of LCD and add more functions to our system.
 
