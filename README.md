@@ -1,5 +1,5 @@
 QR-code-Arduino-Uno-control-door
-================================
+==========================================================================================================================
 
 We implement QR code on Arduino Uno and an app on Android to control a door (open/close)
 
@@ -19,6 +19,8 @@ Arduino will check if the result is correct or not. If correct it will turn on a
 - You also can manage all accounts saved in EEPROM by delete and add funtions 
 
 In the future we will replace Uno by Mega so that we can use the touching screen of LCD and add more functions to our system.
+
+Demo video : http://www.youtube.com/watch?v=de_rx1Wt1DE
 
 Our group: 
             Leader: Phan Tuan Phuc (ptphucbk@gmail.com)
