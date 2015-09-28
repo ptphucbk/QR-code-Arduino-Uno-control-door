@@ -1,7 +1,7 @@
 QR-code-Arduino-Uno-control-door
 ==========================================================================================================================
 
-We implement QR code on Arduino Uno and an app on Android to control a door (open/close)
+We implement QR code on Arduino Uno and an app on Android to control a door (open/close) under GNU license
 
 Arduino Uno encodes QR code (size 25*25 Error Correction Level H with modified mask 0) and display it on LCD TFT 2.4"
 (http://www.geeetech.com/wiki/index.php/2.4%22TFT_LCD) using UTFT library (http://www.henningkarlsen.com/electronics/library.php?id=52)
